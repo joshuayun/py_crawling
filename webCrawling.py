@@ -14,3 +14,4 @@ ttimg = gaus_img[0].get('alt')
 
 print(ttimg)
 
+
